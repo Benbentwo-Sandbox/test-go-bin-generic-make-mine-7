@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Benbentwo/go-bin-generic/app"
+	"github.com/Benbentwo-Sandbox/test-go-bin-generic-make-mine-7/app"
 	"os"
 )
 

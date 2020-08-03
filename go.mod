@@ -1,4 +1,4 @@
-module github.com/Benbentwo/go-bin-generic
+module github.com/Benbentwo-Sandbox/test-go-bin-generic-make-mine-7
 
 go 1.12
 

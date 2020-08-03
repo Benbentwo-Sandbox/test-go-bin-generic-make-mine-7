@@ -3,7 +3,7 @@
 package app
 
 import (
-	"github.com/Benbentwo/go-bin-generic/pkg/cmd"
+	"github.com/Benbentwo-Sandbox/test-go-bin-generic-make-mine-7/pkg/cmd"
 	"os"
 )
 
